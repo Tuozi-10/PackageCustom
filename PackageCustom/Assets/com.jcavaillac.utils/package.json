@@ -1,0 +1,11 @@
+{
+  "name": "com.jcavaillac.utils",
+  "version": "1.0.0",
+  "displayName": "Package d'helpers custom",
+  "description": "Ajout de fonctions utilitaires",
+  "unity": "2021.3",
+  "author": {
+    "name": "Jacques Cavaillac",
+    "email": "jacques.cavaillac@gmail.com"
+  }
+}
